@@ -30,6 +30,9 @@ Calculate percentages, percentage change, and percentage difference. Essential f
 ### AB Test Calculator
 Statistical significance calculator for A/B testing. Determine if your test results are statistically significant.
 
+### [Engagement-Rate Calculator (Spanish)](https://comprarseguidoresig.es/tools/engagement-rate)
+Calculate (likes + comments) / followers, reach or views × 100 from manual counts. Free, no signup; Spanish interface.
+
 ## Developer Tools
 
 ### ASCII Art Generator
